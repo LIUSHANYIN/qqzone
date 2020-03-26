@@ -1,0 +1,160 @@
+.bg {
+  position: absolute;
+}
+
+.bg img {
+  z-index: -1;
+  height: 847px;
+  width: 1843px;
+}
+.container {
+  position: relative;
+  min-height: 600px;
+  z-index: 2;
+  height: 100%;
+}
+.qqicon {
+  position: relative;
+  top: 115px;
+  z-index: 10;
+  zoom: 1;
+}
+.inner {
+  width: 880px;
+  margin: 0 auto;
+  position: relative;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+.qq img {
+  width: 90px;
+  height: 90px;
+}
+.inner div h2 {
+  font-size: 60px;
+  font-weight: 400;
+  color: white;
+  position: relative;
+  top: 5px;
+}
+.share {
+    width: 850px;
+    margin: 0 auto;
+    position: relative;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+.p1 {
+  font-size: 20px;
+  color: white;
+  padding: 10px;
+  letter-spacing: 10px;
+}
+.p2 {
+  font-size: 20px;
+  color: white;
+  padding: 10px 30px;
+  letter-spacing: 10px;
+}
+.login {
+  width: 418px;
+  height: 316px;
+  background-color: white;
+  position: relative;
+  left: 55%;
+}
+.top {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.top h2 {
+  padding: 10px 0;
+  font-size: 20px;
+}
+.top p {
+  color: rgba(0, 0, 0, 0.555);
+}
+.top p span a {
+  text-decoration: none;
+  color: rgb(9, 123, 230);
+}
+.btn {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
+.input1 {
+  width: 250px;
+  height: 40px;
+  font-size: 13px;
+  color: rgba(0, 0, 0, 0.274);
+  margin: 5px;
+}
+.input2 {
+  width: 250px;
+  height: 40px;
+  font-size: 13px;
+  color: rgba(0, 0, 0, 0.274);
+  margin: 5px;
+}
+.bt3 {
+  width: 258px;
+  height: 40px;
+  font-size: 20px;
+  color: rgb(250, 250, 250);
+  margin: 5px;
+  background-color: rgba(140, 228, 8, 0.808);
+}
+.bottom {
+  position: relative;
+  display: flex;
+  margin-top: 40px;
+  margin-left: 170px;
+}
+.bottom a {
+  font-size: 10px;
+  text-decoration: none;
+  color: black;
+}
+.bottom p {
+  font-size: 10px;
+  color: rgba(7, 7, 7, 0.411);
+  padding: 0 15px;
+}
+.footer {
+  position: relative;
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  top: 100px;
+}
+.footer div p {
+  color: white;
+  line-height: 1.5;
+  font-size: 13px;
+}
+.icon div img {
+}
+.icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.icon div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
